@@ -25,6 +25,7 @@ Two available demos:
 ```bash
 git clone https://github.com/jojozhuang/text-compare-angular.git
 cd text-compare-angular
+npm run build
 npm install
 npm start
 ```
